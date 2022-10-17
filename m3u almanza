@@ -1,3 +1,53 @@
 #EXTM3U
-#EXTINF:-1,Canal Claro
-http://172.31.31.17:8000/play/a03y/index.m3u8
+#EXTINF:-1,ATV
+http://172.31.31.17:8000/play/a07m/index.m3u8
+#EXTINF:-1,AmØrica Televisiðn
+http://172.31.31.17:8000/play/a07h/index.m3u8
+#EXTINF:-1,CMD
+http://172.31.31.17:8000/play/a08c/index.m3u8
+#EXTINF:-1,Canal N
+http://172.31.31.17:8000/play/a07l/index.m3u8
+#EXTINF:-1,ESPN
+http://172.31.31.17:8000/play/a07z/index.m3u8
+#EXTINF:-1,El Trece
+http://172.31.31.17:8000/play/a07w/index.m3u8
+#EXTINF:-1,GLOBAL
+http://172.31.31.17:8000/play/a07n/index.m3u8
+#EXTINF:-1,HBO
+http://172.31.31.17:8000/play/a083/index.m3u8
+#EXTINF:-1,HBO2
+http://172.31.31.17:8000/play/a084/index.m3u8
+#EXTINF:-1,Kanal D Drama
+http://172.31.31.17:8000/play/a07q/index.m3u8
+#EXTINF:-1,Latina
+http://172.31.31.17:8000/play/a07f/index.m3u8
+#EXTINF:-1,Lolly Kids
+http://172.31.31.17:8000/play/a07o/index.m3u8
+#EXTINF:-1,Movistar Deportes
+http://172.31.31.17:8000/play/a07g/index.m3u8
+#EXTINF:-1,Movistar Plus
+http://172.31.31.17:8000/play/a07j/index.m3u8
+#EXTINF:-1,Nick Jr
+http://172.31.31.17:8000/play/a088/index.m3u8
+#EXTINF:-1,PLUSTV
+http://172.31.31.17:8000/play/a07x/index.m3u8
+#EXTINF:-1,Panamericana
+http://172.31.31.17:8000/play/a07i/index.m3u8
+#EXTINF:-1,Perœ MÆgico
+http://172.31.31.17:8000/play/a07y/index.m3u8
+#EXTINF:-1,STAR CHANNEL
+http://172.31.31.17:8000/play/a082/index.m3u8
+#EXTINF:-1,TV PERU
+http://172.31.31.17:8000/play/a07k/index.m3u8
+#EXTINF:-1,Teen Nick
+http://172.31.31.17:8000/play/a07p/index.m3u8
+#EXTINF:-1,Telemundo
+http://172.31.31.17:8000/play/a07u/index.m3u8
+#EXTINF:-1,TyC Sports
+http://172.31.31.17:8000/play/a080/index.m3u8
+#EXTINF:-1,Venevision Plus
+http://172.31.31.17:8000/play/a07t/index.m3u8
+#EXTINF:-1,WOBI
+http://172.31.31.17:8000/play/a08a/index.m3u8
+#EXTINF:-1,Warner Channel
+http://172.31.31.17:8000/play/a081/index.m3u8
